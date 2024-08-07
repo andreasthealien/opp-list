@@ -1,12 +1,12 @@
 let oppsList = [
     {
-        username: "4_blokk",
-        display: "elijah",
+        username: "testUser1",
+        display: "testUser1",
         date: "7th August, 2024"
     },
     {
-        username: "kakheor (test)",
-        display: "sepuku (test)",
+        username: "testUser2",
+        display: "testUser2",
         date: "8th August, 2024"
     }
 ];
