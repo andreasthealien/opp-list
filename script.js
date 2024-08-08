@@ -13,8 +13,31 @@ let oppsList = [
         username: "jazzzy4life",
         display: "pawwz",
         date: "8th August, 2024"
+    },
+    {
+        username: "termanator4466",
+        display: "Termanatorman",
+        date: "8th August, 2024"
+    },
+    {
+        username: "winsedvin",
+        display: "sss",
+        date: "8th August, 2024"
+    },
+    {
+        username: "sugarbuhni",
+        display: "sugarbuhni",
+        date: "8th August, 2024"
     }
 ];
+
+/*
+{
+    username: "",
+    display: "",
+    date: ""
+}
+*/
 
 oppsList = oppsList.reverse();
 
